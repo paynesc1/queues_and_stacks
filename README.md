@@ -1,2 +1,2 @@
-# queues_and_stacks
+# Queues and Stacks
 practice with queues and stacks
